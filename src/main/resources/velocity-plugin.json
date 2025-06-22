@@ -1,0 +1,7 @@
+{
+"id": "authvelo",
+"name": "Authvelo",
+"version": "1.0",
+"main": "ai.authvelo.AuthveloMain",
+"authors": ["Busio"]
+}
